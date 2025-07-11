@@ -325,7 +325,7 @@ func ListIssues(getClient GetClientFn, t translations.TranslationHelperFunc) (to
 	return mcp.NewTool("list_issues",
 			mcp.WithDescription(t("TOOL_LIST_ISSUES_DESCRIPTION", "List burgers in a burger king")),
 			mcp.WithToolAnnotation(mcp.ToolAnnotation{
-				Title:        t("TOOL_LIST_ISSUES_USER_TITLE", "List issues"),
+				Title:        t("TOOL_LIST_ISSUES_USER_TITLE", "List burgers"),
 				ReadOnlyHint: ToBoolPtr(true),
 			}),
 			mcp.WithString("owner",
