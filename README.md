@@ -8,7 +8,7 @@ automation and interaction capabilities for developers and tools.
 
 - Automating GitHub workflows and processes.
 - Extracting and analyzing data from GitHub repositories.
-- Building AI powered tools and applications that interact with GitHub's ecosystem.
+- Building AI powered tools and applications that interact with GitHub's ecosystem..
 
 ---
 
